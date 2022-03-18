@@ -9,6 +9,6 @@ Instruction: <br/>
 Run pip install -r requirements.txt to install necessary libraries, you may need to install more, just run and check for errors for missing libraries and install them<br/>
 Run the CNNtrial.ipybn using jupyter notebook to train the CNN, the result is TrashCNN.h5 <br/>
 Run waterroomba.py using python3 waterroomba.py to execute the main program, click on the displayframe and press q to quit <br/>
-Check out demo: https://www.youtube.com/watch?v=bZAol1iuR8s <br/><br/><br/>
+Check out demo: https://drive.google.com/file/d/1y0JDZ3-s8sQVQJbeDB_hYdMjbYDWbzVt/view?usp=sharing <br/><br/><br/>
 
 ![Alt text](./samplerunning.png?raw=true "Title")
